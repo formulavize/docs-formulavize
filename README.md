@@ -1,7 +1,7 @@
 # docs-formulavize
 
 The documentation website for
-[formulavize](https://github.com/formulavize/formulavize), a split pane textual
+[formulavize](https://github.com/formulavize/editor-formulavize), a split pane textual
 editor for the **fiz** DSL: you write fiz recipes and they are compiled into
 directed acyclic graphs that get drawn as you type.
 
